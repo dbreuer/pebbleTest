@@ -65,7 +65,7 @@
     "shortName": "BudaGame",
     "uuid": "2f0fc5f7-c44e-43ec-853d-aef4a369c9c4",
     "versionCode": 1,
-    "versionLabel": "0.1",
+    "versionLabel": "0.2",
     "watchapp": {
         "watchface": false
     }
