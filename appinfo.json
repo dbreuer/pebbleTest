@@ -5,7 +5,7 @@
         "configurable"
     ],
     "companyName": "its-work@hotmail.com",
-    "longName": "BudaGame",
+    "longName": "BudaGame Dev",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -30,34 +30,19 @@
                 "type": "font"
             },
             {
-                "file": "images/budagame_icon.png",
-                "name": "IMAGES_BUDAGAME_ICON_PNG",
-                "type": "png"
-            },
-            {
                 "file": "images/screenshot.png",
                 "name": "IMAGES_SCREENSHOT_PNG",
                 "type": "png"
             },
             {
-                "file": "images/cloud.png",
-                "name": "IMAGES_CLOUD_PNG",
+                "file": "images/budagame_big_icon.png",
+                "name": "IMAGES_BUDAGAME_BIG_ICON_PNG",
                 "type": "png"
             },
             {
-                "file": "images/snow.png",
+                "file": "images/budagame_icon.png",
                 "menuIcon": true,
-                "name": "IMAGES_SNOW_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/rain.png",
-                "name": "IMAGES_RAIN_PNG",
-                "type": "png"
-            },
-            {
-                "file": "images/sun.png",
-                "name": "IMAGES_SUN_PNG",
+                "name": "IMAGES_BUDAGAME_ICON_PNG",
                 "type": "png"
             }
         ]
