@@ -31,22 +31,22 @@
             },
             {
                 "file": "images/sun.png",
-                "name": "IMAGES_SUN_PNG",
+                "name": "IMAGE_SUN",
                 "type": "png"
             },
             {
                 "file": "images/rain.png",
-                "name": "IMAGES_RAIN_PNG",
+                "name": "IMAGE_RAIN",
                 "type": "png"
             },
             {
                 "file": "images/snow.png",
-                "name": "IMAGES_SNOW_PNG",
+                "name": "IMAGE_SNOW",
                 "type": "png"
             },
             {
                 "file": "images/cloud.png",
-                "name": "IMAGES_CLOUD_PNG",
+                "name": "IMAGE_CLOUD",
                 "type": "png"
             },
             {
@@ -57,7 +57,7 @@
             {
                 "file": "images/budagame_icon.png",
                 "menuIcon": true,
-                "name": "IMAGES_BUDAGAME_ICON_PNG",
+                "name": "IMAGE_BUDAGAME_ICON_PNG",
                 "type": "png"
             }
         ]
