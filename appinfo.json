@@ -30,23 +30,8 @@
                 "type": "font"
             },
             {
-                "file": "images/sun.png",
-                "name": "IMAGE_SUN",
-                "type": "png"
-            },
-            {
-                "file": "images/rain.png",
-                "name": "IMAGE_RAIN",
-                "type": "png"
-            },
-            {
-                "file": "images/snow.png",
-                "name": "IMAGE_SNOW",
-                "type": "png"
-            },
-            {
-                "file": "images/cloud.png",
-                "name": "IMAGE_CLOUD",
+                "file": "images/budagame_icon.png",
+                "name": "IMAGES_BUDAGAME_ICON_PNG",
                 "type": "png"
             },
             {
@@ -55,9 +40,24 @@
                 "type": "png"
             },
             {
-                "file": "images/budagame_icon.png",
+                "file": "images/cloud.png",
+                "name": "IMAGES_CLOUD_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/snow.png",
                 "menuIcon": true,
-                "name": "IMAGE_BUDAGAME_ICON_PNG",
+                "name": "IMAGES_SNOW_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/rain.png",
+                "name": "IMAGES_RAIN_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/sun.png",
+                "name": "IMAGES_SUN_PNG",
                 "type": "png"
             }
         ]
